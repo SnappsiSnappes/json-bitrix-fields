@@ -1,5 +1,7 @@
 # json-bitrix-fields
 
+## установка через композер
+
 ```composer require snappsisnappes/json-bitrix-fields ```
 
 
