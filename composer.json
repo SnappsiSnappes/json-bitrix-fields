@@ -1,0 +1,12 @@
+{
+    "name": "snappsisnappes/json-bitrix-fields",
+    "description": "Это маленький класс-инструмент поможет в конвертации битриксных полей в человеческий вид и обратно.",
+    "type": "tool",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "SnappsiSnappes\\": "src/"
+        }
+    },
+    "require": {}
+}
