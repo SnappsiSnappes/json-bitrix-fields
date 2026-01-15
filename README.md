@@ -16,7 +16,7 @@ composer require snappsisnappes/json-bitrix-fields
 $CompanyConverter = new JsonBitrixFields($webhook,0,'company');
 ```
 
-в той же папке что и класс скачается json файл со всеми полями вашего битрикса.
+в той же папке что и класс скачается json файл со всеми полями вашего битрикса. Это произойдет следующим образом, сначала скрипт скачает все поля потом сам создаст этот файл.
 
 Формат файла (название вашено битрикса).birtix24.ru\_(сущность, может быть lead,company,deal)\_fields.json.
 
