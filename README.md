@@ -1,6 +1,6 @@
 # json-bitrix-fields
 
-```bash composer require snappsisnappes/json-bitrix-fields ```
+```composer require snappsisnappes/json-bitrix-fields ```
 
 
 Это маленький класс-инструмент поможет в конвертации битриксных полей в человеческий вид и обратно.
